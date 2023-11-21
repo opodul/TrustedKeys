@@ -1,0 +1,8 @@
+Run this command in your terminal in the directory the iso was downloaded to verify the SHA256 checksum:
+echo "a435f6f393dda581172490eda9f683c32e495158a780b5a1de422ee77d98e909 *ubuntu-22.04.3-desktop-amd64.iso" | shasum -a 256 --check
+
+You should get the following output:
+ubuntu-22.04.3-desktop-amd64.iso: OK
+
+Or follow this tutorial to learn how to verify downloads
+(https://ubuntu.com/tutorials/tutorial-how-to-verify-ubuntu)
