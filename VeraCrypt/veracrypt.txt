@@ -1,0 +1,2 @@
+2023-03-21 - https://www.veracrypt.fr/en/Downloads.html
+PGP Public Key: https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc (ID=0x680D16DE, Fingerprint=5069A233D55A0EEB174A5FC3821ACD02680D16DE)
