@@ -18,3 +18,8 @@ Verify the checksum matches
 
 sha256sum -c Fedora-Workstation-39-1.5-x86_64-CHECKSUM
 If the output states that the file is valid, then it's ready to use!
+
+
+
+gpgv:                with RSA key E8F23996F23218640CB44CBE75CF5AC418B8E74C
+
