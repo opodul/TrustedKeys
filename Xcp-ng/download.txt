@@ -1,0 +1,11 @@
+Grab the latest 8.2 ISO here, (https://mirrors.xcp-ng.org/isos/8.2/xcp-ng-8.2.1.iso?https=1)
+then create your bootable USB key with:
+
+dd if=xcp-ng-8.2.1.iso of=/dev/sdX bs=8M oflag=direct
+Then just boot on it!
+
+On Windows, you can use Rufus to create the bootable USB stick.
+(https://rufus.akeo.ie/)
+
+SHA256: 93853aba9a71900fe43fd5a0082e2af6ab89acd14168f058ffc89d311690a412
+

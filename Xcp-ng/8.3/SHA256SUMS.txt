@@ -1,0 +1,4 @@
+4d29f84bfe067888499c08d57d46aae864ca17752e6f20cdfec91df14f9c1195  xcp-ng-8.3.0-alpha2.iso
+22a5c40168ce8329262b36f6863a3e26e9c733fbce64d1dd581c11fffc4e2760  xcp-ng-8.3.0-alpha2-netinstall.iso
+04f0fa91f59894888ec37dda10cac9cbbddcd017863dd65ed57b6c49919d5ff6  xcp-ng-8.3.0-beta1.iso
+0e2b123d5d112b83ac7dfbd6c33a504f963cc9cecb77ca8475b7b98625f16b07  xcp-ng-8.3.0-beta1-netinstall.iso
