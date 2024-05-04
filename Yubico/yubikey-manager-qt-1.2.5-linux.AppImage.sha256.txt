@@ -1,0 +1,1 @@
+6195a63935236b22ff91cfecc03007b748eb9877d1486d8b5a8033fef3757652  yubikey-manager-qt-1.2.5-linux.AppImage
