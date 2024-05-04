@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
+Verify:
+- - - https://keybase.io/exodusmovement/pgp_keys.asc?fingerprint=4ce260e8d65df43ce88d25f212dc27133d25fafa
+- - - https://keybase.io/exodusmovement
+
+
+NOTE:
+
+Future releases may also be signed with the following key instead:
+
+- - - https://keybase.io/jprichardson/pgp_keys.asc?fingerprint=12408650e2192febe4e7024c9d959455325b781a
+- - - https://keybase.io/jprichardson
+
+SHA256:
+
+f5e81455ac483bdabb75e2c68aedb5a8d8500be24d74a877f819abd2a83f2d94 exodus-linux-x64-20.7.20.zip
+1ed83b1768ee835a8cfd10112aaee9c597d82308f5e43d3c40376c3e07c13883 exodus-macos-20.7.20.dmg
+1c1cbdf0b503ea80aaa9a074e35fead7c19cfac15d9833e2d57125af05d3c04f exodus-macos-20.7.20.zip
+938d4cc27ae4558d6ae302a110f104883f12ba3facad7466ff556000765daf26 exodus-windows-x64-20.7.20.exe
+6e8431f8b5db2ddc5a763614871aca03ff83bd4b1abbb6ede5bc6c9b24c3e8f7 exodus-windows-x64-20.7.20.nupkg
+418c3c769e1d81deae6a3e649c83e61fd54c0f7ace5c334570a47575cc8f396b exodus_20.7.20_amd64.deb
+
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCAAQBQJfFbYLCRAS3CcTPSX6+gAA0mUQAGu/MTosRAFpRyEwdvvj++W7
+//m5q1qMmLWigGm1ykdXKJcStP4mQA9t6Qzg+cPCu4KkxyJquNSxHPWQ18puXs4l
+OZFB1KE7qMYntGK/VwNLki2Zwq6hg6kbPNiZaHCDVGvice8c3vq72aaNZbt+f3dl
+MhgdJhQsV8iiGpb5LK6w9qT6zKzLrl8nMFXsxMokeV37jITa3fTLUloKnb7Vs26t
+Hw63Gix1Qre+EDccosLSnHuUOjrAdfXKwnZy2YWqbl/+PopVdw7Bn/K6i8+XS440
+nnHll167Bdre13E75QlX6p41Nal1cy2eFOnIHDOWSdFT1zuNz8tU0faxTbRjDsZg
+h3benVhO6TrE/xEWUXlleq3G+LKxdEzGVAanBMkAkDRTKIT8lXRAvEUdb01ZkQmk
+T1EFUiHuiNqrfysYvPi+jFNoiaoGNepjF/6LhVU6A6XnXdlekK658cNnkQ+wcjyc
+lx/pJgpd5S768HZaE4QQXuC8niTB7z1yYJ48hXe0BP3yw5sZ7jK2ZA11re+2oCRW
+7M0Qtr6cv5kD355CJVPkUUeKW/jJEkhcDFm6aUbVxS+0zPMUSaMue8gO5qXDzFlA
+yRGIyOnSvgxIxFhyrvsP3HTb2uXAcvVEUkkLlhYqrwMUwwIoaIvkhtTUXsys68O6
+r53f3GGLvQtNYTqhFkjp
+=33Tb
+-----END PGP SIGNATURE-----

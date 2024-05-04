@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
+Verify:
+- - - https://keybase.io/exodusmovement/pgp_keys.asc?fingerprint=ef2ccd36c16a8b90da1932e0926dc59fbb75b328
+- - - https://keybase.io/exodusmovement
+
+
+NOTE:
+
+Future releases may also be signed with the following key instead:
+
+- - - https://keybase.io/jprichardson/pgp_keys.asc?fingerprint=12408650e2192febe4e7024c9d959455325b781a
+- - - https://keybase.io/jprichardson
+
+SHA256:
+
+0d58be41bf12e767feff16a6f215d65bfcbc6321526c563d1ce336cfcd33f631 exodus-linux-x64-23.12.7.deb
+ab1d29fb88c0bafda4a1a3ae120438da3a49e47cac457f353cfacc396a764a7c exodus-linux-x64-23.12.7.zip
+9c275a8238ee83cf93c357b4548e208fbfd3f41d0a4a202bce081c1d8dca7f1b exodus-macos-23.12.7.dmg
+82921470e83ec9d9999ab2e5e786b834d273923bea023a13e459ed52ff652c2c exodus-macos-23.12.7.zip
+043473dae81619bd225a8e4d3a4cce3bcdd47b66cb50bb6e4ce0e545df31a10a exodus-macos-arm64-23.12.7.dmg
+c21c17e8a94bf4b0b148e59448cc9cea43ca22df7d76d44c5adfd084a361695f exodus-macos-arm64-23.12.7.zip
+b291c51874d8da66189c6f20bbb76434397bc8bd5079f0e3849d69eae2e9413b exodus-windows-x64-23.12.7.exe
+424b5d4e984e6c5b455bcdc32cea15ea78f5d24df6b9848634f7cd7f44ec517c exodus-windows-x64-23.12.7.nupkg
+
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCAAQBQJlcdIJCRCSbcWfu3WzKAAAXSUQACxImY5g+uLgff0A8kk+vJLM
+BB5f6d82kqyJWsK4CsDsUf4KnrjFlLJJfu7i7NcrL8UVr5rlzk0lwz+a6LRxmDyN
+6kzi8+knaYQLSI4TAx02HZHFuzzb43YO63/6/PUECWLQI2eLjReXsdzhdqHgGpxH
+un8cU+kn2Q5gOZ9bh+XbWIdKh+Po0HkEfk3YKmb7mR2Ih4bGvdJCZ19OsHsTnL3J
+fuHgi4qoZxNjmuuhlNP0sAqeL16ypKNJ1dNGQYXL6yVmBRV9xPeSBhKxs+8cpvKq
+5ruKo3RCV0WkZk4HP3gvWrlUH3ERBjS7N07c0z7obJFb0jFjmlpRrlrbmspwlWQc
+C8HTFCrAZX14xadlqwcuunPJrgVqr+GtXgfIXrpPUjHPV99znaWm3uIpXxx+iBOu
+vd0L7QA6d/8kIQSdSgHJSa5yi5gKz/+Jso8xroVCKRIBAEzrdgI68O/GCK2ACsRt
+5joN+p6oy3ADXJqBTiEW8xKE7K3KHkSnHz3YFJoAakbtvKxYN/0/a3wT8foeRzRV
+2e/HvnqMPz/u9UWe8/2Vg8Azaxs4HPwlcEpjWHNG5CZBGQ/2V1IbigsQV4tKiIRJ
+Daum1L6MAqB/+N8CVCyVDKVPplqwCsXfq37+B7O4GXYzrNvgZ23hogHSjwkFgei+
+Wj+tDVXHaYMOBQqQEKci
+=jFYF
+-----END PGP SIGNATURE-----
