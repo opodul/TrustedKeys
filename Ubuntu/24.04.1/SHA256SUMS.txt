@@ -1,0 +1,2 @@
+c2e6f4dc37ac944e2ed507f87c6188dd4d3179bf4a3f9e110d3c88d1f3294bdc *ubuntu-24.04.1-desktop-amd64.iso
+e240e4b801f7bb68c20d1356b60968ad0c33a41d00d828e74ceb3364a0317be9 *ubuntu-24.04.1-live-server-amd64.iso
