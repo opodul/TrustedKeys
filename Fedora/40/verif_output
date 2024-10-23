@@ -1,0 +1,7 @@
+gpgv --keyring ../fedora.gpg Fedora-Workstation-40-1.14-x86_64-CHECKSUM
+
+gpgv: Signature faite le ven. 19 avril 2024 19:56:39 CEST
+gpgv:                avec la clef RSA 115DF9AEF857853EE8445D0A0727707EA15B79CC
+gpgv: Bonne signature de « Fedora (40) <fedora-40-primary@fedoraproject.org> »
+
+
